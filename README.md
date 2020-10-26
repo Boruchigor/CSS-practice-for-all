@@ -4,7 +4,7 @@ Extra exercise for ppl
 
 
 1. Create a text using HTML.
-2. Write where would you like to go
+2. Write where would you like to go <br>
   a. Description that would add a quotation connected to the views of the place (blockquote)
   b. Necessary instructions as a list what would you need to do to prepare for the trip
 3. After composing text and list add a picture of the place, or somewhere nearby
